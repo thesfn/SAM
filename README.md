@@ -13,5 +13,5 @@ Folder A contains folder B and a file.
 Selecting folder A will generated a .sam containing folder B and a file.
 Selecting folder A but consuming it's sub files will generate .sam containing only folder B and any file will be ignore
 
-Privacy Policy:
+# Privacy Policy:
 All software related to .sam which are SAMReader(Android/IOS) and SAMMaker(Windows) does not collect any data. 
