@@ -1,4 +1,4 @@
-# SAMMaker
+# SAM
 Repository for SAM and its related content
 
 # What is .sam
