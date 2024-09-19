@@ -20,9 +20,9 @@ Selecting folder A but consuming it's sub files will generate .sam containing on
 # How to install SAMReader
 (Approach maybe vary based on devices)
 Option 1 : 
- -> Google play store (Recommended)
+ -> Google play store (Recommended).
 Option 2 : 
- -> Download samreader_version_1.apk
+ -> Download samreader_version_1.apk.
  -> On your android decive navigate to :
  -> Setting -> Security -> enable install from unknown source
  -> or
