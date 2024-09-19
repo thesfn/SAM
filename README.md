@@ -8,14 +8,28 @@ Repository for SAM and its related content
 .pdf is document wrapper holding image and text while .sam capable of holding diverse type of file (image, text, audio, and audio) with restriction can be addedd to limit who or where it can be consume.
 .zip & .rar & .cbr are arhive wrapper which to compress and store files while .sam has similar concept .sam cannot simply be decompress as it is encrypted
 
-# How to
-Download SAMMaker software (currently only available for windows  & no installation needed).
+# How to create .sam
+Download SAMMaker.exe (currently only available for windows  & no installation needed).
 Open SAMMaker and simply follow the instructions.
 Please noted, only folder can and will be consume to create .sam.
 Example.
 Folder A contains folder B and a file. 
 Selecting folder A will generated a .sam containing folder B and a file.
 Selecting folder A but consuming it's sub files will generate .sam containing only folder B and any file will be ignore
+
+# How to install SAMReader
+(Approach maybe vary based on devices)
+Option 1 : 
+ -> Google play store (Recommended)
+Option 2 : 
+ -> Download samreader_version_1.apk
+ -> On your android decive navigate to :
+ -> Setting -> Security -> enable install from unknown source
+ -> or
+ -> Setting -> app & notification -> advance / three dot -> enable install from unknown source
+ -> or
+ -> please consult your device manual.
+ -> Find the downloade apk, open it and follow the instruction.
 
 # Privacy Policy:
 All software related to .sam which are SAMReader(Android) and SAMMaker(Windows) does not collect any data. 
