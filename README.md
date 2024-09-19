@@ -26,7 +26,7 @@ Option 2 :
  * On your android decive navigate to :
  -> Setting -> Security -> enable install from unknown source
  * or
- -> Setting -> app & notification -> advance / three dot -> enable install from unknown source
+ -> Setting -> app & notification -> advance / three dots -> enable install from unknown source
  * or
  * please consult your device manual.
  * Find the downloaded apk, open it and follow the instruction.
