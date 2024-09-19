@@ -5,8 +5,8 @@ Repository for SAM and its related content
 .sam is a secured and encrypted file wrapper which design to compress and archive file(s) but .sam is not an archiving file since it contain several "instructions for it to be read". The idea behind .sam is to prevent other from breaching your content but still readable using .sam reader.
 
 # .sam vs (.pdf & .zip & .rar & .cbr)
-.pdf is document wrapper holding image and text while .sam capable of holding diverse type of file (image, text, audio, and audio) with restriction can be addedd to limit who or where it can be consume.
-.zip & .rar & .cbr are arhive wrapper which to compress and store files while .sam has similar concept .sam cannot simply be decompress as it is encrypted
+*.pdf is document wrapper holding image and text while .sam capable of holding diverse type of file (image, text, audio, and audio) with restriction can be addedd to limit who or where it can be consume.
+*.zip & .rar & .cbr are arhive wrapper which to compress and store files while .sam has similar concept .sam cannot simply be decompress as it is encrypted
 
 # How to create .sam
 Download SAMMaker.exe (currently only available for windows  & no installation needed).
