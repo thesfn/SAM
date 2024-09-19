@@ -32,8 +32,8 @@ Selecting folder A but consuming it's sub files will generate .sam containing on
   > Find the downloaded apk, open it and follow the instruction.
 
 # Privacy Policy:
-All software related to .sam which are SAMReader(Android) and SAMMaker(Windows) does not collect any data. 
-.sam and it's related content does neither require the internet nor collect any data. .sam is a file wrapper not an application.
+* All software related to .sam which are SAMReader(Android) and SAMMaker(Windows) does not collect any data. 
+* neither .sam nor it's related content require the internet to function or collect any data. .sam is a file wrapper not an application.
 
 # Disclaimer:
 .sam and it's related content are build as it is. Any damages arise from the usage or missappropriation are waive by the creator
