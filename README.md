@@ -36,4 +36,6 @@ Selecting folder A but consuming it's sub files will generate .sam containing on
 * Neither .sam nor it's related content require the internet to function or collect any data. .sam is a file wrapper not an application.
 
 # Disclaimer:
-.sam and it's related content are build as it is. Any damages arise from the usage or missappropriation are waive by the creator
+* .sam and it's related content are build as it is.
+* The creator has no control on how it would be use.
+* Any damages arise from the usage or missappropriation are waive by the creator. 
